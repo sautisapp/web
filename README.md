@@ -1,2 +1,1 @@
-# web
-Website for sautis.com
+# Website for sautis.com
